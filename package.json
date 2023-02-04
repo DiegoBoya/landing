@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/DiegoBoya/landing/issues"
   },
-  "homepage": "https://github.com/DiegoBoya/landing#readme"
+  "homepage": "https://github.com/DiegoBoya/landing#readme",
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
 }
